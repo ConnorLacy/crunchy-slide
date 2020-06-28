@@ -9,5 +9,9 @@
   "private": false,
   "dependencies": {
     "@stencil/core": "^1.15.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.41",
+    "typescript": "^3.9.5"
   }
 }
