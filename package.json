@@ -1,0 +1,13 @@
+{
+  "name": "crunchy-slide",
+  "version": "1.0.0",
+  "description": "StencilJS Practice",
+  "main": "index.js",
+  "repository": "git@github.com:ConnorLacy/crunchy-slide.git",
+  "author": "ConnorLacy <lacyconnor1409@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@stencil/core": "^1.15.0"
+  }
+}
